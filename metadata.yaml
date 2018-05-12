@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35581'
     url: http://www.gutenberg.org/2009/agents/35581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31972#My-Service-in-the-U.S.-Colored-Cavalry--13-A-Paper-Read-before-the-Ohio-Commandery-of-the-Loy_
 gutenberg_issued: '2010-04-13'
 gutenberg_type: Text
 identifiers:
